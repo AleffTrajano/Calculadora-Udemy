@@ -1,0 +1,16 @@
+.kz-btn{
+    width: 90px;
+    margin: 4px;
+}
+.kz-btn-text{
+    width: 96px;
+    margin-left: 6px;
+    margin-top: 3px;
+}
+.kz-pad-20{
+    padding: 20px;
+}
+.col-xs-3, .col-xs-9{
+    padding: 0px;
+
+}
